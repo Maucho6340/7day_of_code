@@ -3,9 +3,10 @@
 Este repositorio es para documentar mi participación en el **7 Days of Code** de Alura Latam, enfocado en practicar lógica de programación.
 
 ## 📅 Bitácora
-### Día 1: [crea tu repositorio desde cero y deja todo listo para los próximos desafíos]
-1. En tu perfil, entra a la pestaña Repositories.
-2. Haz clic en New.
-3. Elige el nombre del repositorio y define si tendrá README (y otras opciones).
-- **Lo que hice:** Aprendí a usar operadores lógicos para comparar variables.
-- **Herramientas:** JavaScript.
+### Día 1: Lógica de Programación
+- [x] 1. Entrar a la pestaña **Repositories** en el perfil.
+- [x] 2. Hacer clic en **New**.
+- [x] 3. Elegir el nombre y configurar el **README**.
+
+#### 🌟 EJERCICIO OPCIONAL
+- [ ] Investiga cómo editar la descripción de tu perfil para añadir tus habilidades y darle un estilo propio. ¡Deja volar tu creatividad!
